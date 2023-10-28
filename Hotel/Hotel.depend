@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1698523837 source:c:\pim\hotel\hotel\main.c
+	"globais.h"
+	"cadastroUsuarios.h"
+	"Reservas.h"
+	"servicos.h"
+
+1698351993 c:\pim\hotel\hotel\cadastrousuarios.h
+
+1698359671 source:c:\pim\hotel\hotel\cadastrousuarios.c
+	"globais.h"
+	"cadastroUsuarios.h"
+
+1698514973 c:\pim\hotel\hotel\globais.h
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+
+1698522516 source:c:\pim\hotel\hotel\globais.c
+	"globais.h"
+
+1698518297 c:\pim\hotel\hotel\reservas.h
+
+1698522887 source:c:\pim\hotel\hotel\reservas.c
+	"globais.h"
+	"cadastroUsuarios.h"
+	"Reservas.h"
+
+1698518696 c:\pim\hotel\hotel\servicos.h
+
+1698520530 source:c:\pim\hotel\hotel\servicos.c
+	"globais.h"
+	"cadastroUsuarios.h"
+	"Reservas.h"
+	"servicos.h"
+
+1698525942 source:c:\users\bruna serrano\downloads\hotel\hotel\cadastrousuarios.c
+	"globais.h"
+	"cadastroUsuarios.h"
+
+1698527068 c:\users\bruna serrano\downloads\hotel\hotel\globais.h
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+
+1698525942 c:\users\bruna serrano\downloads\hotel\hotel\cadastrousuarios.h
+
+1698525942 source:c:\users\bruna serrano\downloads\hotel\hotel\globais.c
+	"globais.h"
+
+1698525942 source:c:\users\bruna serrano\downloads\hotel\hotel\main.c
+	"globais.h"
+	"cadastroUsuarios.h"
+	"Reservas.h"
+	"servicos.h"
+
+1698525942 c:\users\bruna serrano\downloads\hotel\hotel\reservas.h
+
+1698525942 c:\users\bruna serrano\downloads\hotel\hotel\servicos.h
+
+1698525942 source:c:\users\bruna serrano\downloads\hotel\hotel\reservas.c
+	"globais.h"
+	"cadastroUsuarios.h"
+	"Reservas.h"
+
+1698525942 source:c:\users\bruna serrano\downloads\hotel\hotel\servicos.c
+	"globais.h"
+	"cadastroUsuarios.h"
+	"Reservas.h"
+	"servicos.h"
+
